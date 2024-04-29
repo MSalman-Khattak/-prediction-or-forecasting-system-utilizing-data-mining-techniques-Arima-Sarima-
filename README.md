@@ -41,3 +41,8 @@ numpy
 matplotlib
 statsmodels
 flask
+
+Clone Repository: Clone the repository from the provided URL.
+Navigate to Project Directory: Move into the project directory.
+Run Flask Application: Execute the Flask application.
+View Results: Open a web browser and go to http://127.0.0.1:5000/ to view the forecast results.
