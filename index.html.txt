@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Forecasting App</title>
+</head>
+<body>
+    <h1>Forecasting App</h1>
+    <form action="/display_results" method="POST">
+        <input type="submit" value="Display Results">
+    </form>
+</body>
