@@ -1,5 +1,7 @@
 # -prediction-or-forecasting-system-utilizing-data-mining-techniques-Arima-Sarima-
 
+Note: most of The details and screenshots are given in word file but here is the overview.
+
 Project Overview:
 This project focuses on analyzing monthly average champagne sales data and forecasting future sales using time series analysis and forecasting techniques. Below is a detailed description of each functionality:
 
